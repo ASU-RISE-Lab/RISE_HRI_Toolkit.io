@@ -1,1 +1,1 @@
-# Rise-Labs-HRI.github.io
+# RISE Human-Robot Interaction Toolkit
