@@ -21,7 +21,7 @@ The highD dataset is a new dataset of naturalistic vehicle trajectories recorded
 Zen dataset is from Japan and developed by Hanshin Expressway Company. The data consists of wide range and long period of all vehicle trajectory data and any other data affecting traffic events.
 * [AGROVERSE](https://www.argoverse.org/)\
 Argoverse is developed by Argo AI, in collaboration with faculty and students from Carnegie Mellon University and Georgia Institute of Technology. One of the first publicly available datasets for research into self-driving vehicle perception, and grew into a larger project to provide high quality curated data and detailed maps to improve 3D tracking and motion forecasting models.
-* [WAYMO](https://waymo.com/intl/en_us/dataset-download-terms/)/
+* [WAYMO](https://waymo.com/intl/en_us/dataset-download-terms/)\
 The Waymo Open Dataset is a perception dataset comprising high resolution sensor data and labels for 1,950 segments.
 
 # Main Topic 1 
