@@ -9,12 +9,12 @@ add introduction to HRI
 ## [1. Applications](/Applications/Applications_Home.md) 
 ### [1.a Gait Rehabilitation (Mostafa)](/Applications/Gait_Rehab.md) 
 ### [1.b Human-Robot Teaming (Mason)](/Applications/HRT.md) 
-### [1.b Autonomous Vehciles(Sunny)](/Applications/AV.md) 
+### [1.b Autonomous Vehicles(Sunny)](/Applications/AV.md) 
 
 ## [2. Multi-Agent Interaction](/Multi_Agent_Interaction/Multi_Agent_Interaction_Home.md) 
 ### [2.a Signaling & Communication(Mason)](/Multi_Agent_Interaction/Signaling.md) 
 ### [2.b Game Theory (Yousef)](/Multi_Agent_Interaction/GT.md) 
-### [2.b Saftey (Jon)](/Multi_Agent_Interaction/Saftey.md) 
+### [2.b Safety (Jon)](/Multi_Agent_Interaction/Saftey.md) 
 
 ## [3. Learning in HRI](/Learning/Learning_Home.md) 
 ### [3.a Reinforcement Learning (Yousef)](/Learning/RL.md) 
