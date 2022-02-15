@@ -3,27 +3,38 @@ title: Actuators
 ---
 
 [Return Home Page](../index.md)
-# Main Topic 1 
-*(EXAMPLE: Game Theory)* \
-*(Insert short introduction for main topic)*
+# Common Robotics Actuators
+## Motors
+### DC Motors
+### Stepper Motors
+### Servo Motors
 
-## Concept or Subtopic 1
-*(EXAMPLE: Nash equilibrium solutions)*\
-*(ADD: description of concept or subtopic)*
+## Linear Actuators
+### Electric
+### Fluid (Hydraulic and Pneumatic)
+
+# Actuators for HRI
+## Flexible Robots
+### Torque Control
+
+## Soft Robotics
+
+## Haptics
+
+
 
 ### Sample Projects
 *(ADD: RISE Code/Github link and description)*\
 *(ADD: or in text example/walkthrough)*
  
 ### Additional Reading
+[Nook Industries: Selecting Lienar Actuators For Robotics](https://www.nookindustries.com/resources/blog/archive/selecting-linear-actuators-for-robotics/)
+[Soft Robotics Toolkit: Actuators](https://softroboticstoolkit.com/actuators)
 + *(ADD: Article)*
 + *(ADD: Article)*
 + *(ADD: Article)*
 
 
-## Concept or Subtopic 2
-*(EXAMPLE: Pareto optimality)*\
-*(ADD: description of concept or subtopic)*
 
 ### Sample Projects
 *(ADD: RISE Code/Github link and description)*\
