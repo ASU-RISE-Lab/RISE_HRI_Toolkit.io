@@ -3,8 +3,11 @@ title: Reinforcement Learning
 ---
 # Reinforcement Learning
 
-##Deep Learning\
-###Deep Q Network\
+## Deep Learning\
+
+[Deep learning with Python and Tensor Flow](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+
+### Deep Q Network\
 The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
  DQN combining reinforcement learning and deep neural networks at scale. 
  The algorithm was developed by enhancing a classic RL algorithm called Q-Learning with deep neural networks and a technique called **experience replay**.\
