@@ -6,6 +6,7 @@ title: Reinforcement Learning
 ## Deep Learning\
 
 [Deep learning with Python and Tensor Flow](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+Link to the first few application of deep learning for classification of images are available [here](https://github.com/sunamatya/Deep_learning_tutorials)
 
 ### Deep Q Network\
 The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
