@@ -1,11 +1,13 @@
 ---
-title: Game Thoery 
+title: Game Theory 
 ---
 
 [Return Home Page](../index.md)
 # Main Topic 1 
 *(EXAMPLE: Game Theory)* \
 *(Insert short introduction for main topic)*
+
+## [Monte Carlo Tree Search](https://medium.com/@pedrohbtp/ai-monte-carlo-tree-search-mcts-49607046b204)
 
 ## Concept or Subtopic 1
 *(EXAMPLE: Nash equilibrium solutions)*\
