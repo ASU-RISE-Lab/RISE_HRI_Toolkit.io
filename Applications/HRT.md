@@ -42,8 +42,6 @@ A common application in industry is for manufacturing; mainly collaborative asse
 [![Peg In Hole Video](https://img.youtube.com/vi/xB9-vEiZwKY/0.jpg)](https://youtu.be/xB9-vEiZwKY?t=28)
 
 
-# Roles and Arbitration?
-
 
 
 
