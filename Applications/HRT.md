@@ -16,13 +16,21 @@ The key features of handover tasks are:
 - Full awarness of partner actions not required
 - Independant completion of tasks with dependant task flow
 
-## Handover Applications
+## Example Applications
 
 - **Example Application:** Object Handover \
 [<img src="https://img.youtube.com/vi/I7mAoEJHee4/0.jpg" width="30%" height="30%">](https://youtu.be/I7mAoEJHee4?t=126)
 
 - **Example Application:** Assistive Tool & Part Retrivial \
 [<img src="https://img.youtube.com/vi/RN9iskWeNfE/0.jpg" width="30%" height="30%">](https://youtu.be/RN9iskWeNfE)
+
+## Research & Resources 
+- Huang C-M, Cakmak M, Mutlu B (2015) Adaptive Coordination Strategies for Human-Robot Handovers. Proc. 2015 Robot. Sci. Syst. Conf
+- A. Bestick, R. Bajcsy, and A. D. Dragan. Implicitly assisting humans to choose good grasps in robot to human handovers. In International Symposium on Experimental Robotics. Springer, 2016
+- F. Cini, T. Banfi, G. Ciuti, L. Craighero, and M. Controzzi, “The relevance of signal timing in human-robot collaborative manipulation,” vol. 1308, pp. 1–12, 2021.
+
+
+
 
 
 
@@ -32,29 +40,32 @@ Shared task execution refers to multiple agents that simultanously work on the s
 
 A common application in industry is for manufacturing; mainly collaborative assembly. Collaborative assembly in this context implies that a human and robot are operating in a shared enviorment and must actively adapt to their partner and jointly plain their actions in order to effectivley complete the task. Because collision between the robot and human is certainly possible in this type of enviorment, saftey is of particular interest to control of these robotic devices.
 
+## Example Applications
 - **Example Application:** Industrial Pick-and-Place \
 [<img src="https://img.youtube.com/vi/i9Vbh2mPG6M/0.jpg" width="30%" height="30%">](https://youtu.be/i9Vbh2mPG6M)
-
 
 - **Example Application:** Automotive Assembly \
 [<img src="https://img.youtube.com/vi/O0Xcb_eLjYA/0.jpg" width="30%" height="30%">](https://youtu.be/O0Xcb_eLjYA?t=80)
 
-
-
+## Research & Resources 
+- A. Hietanen, R. Pieters, M. Lanz, J. Latokartano, and J. K. Kämäräinen, “AR-based interaction for human-robot collaborative manufacturing,” Robot. Comput. Integr. Manuf., vol. 63, no. November 2019, p. 101891, 2020, doi: 10.1016/j.rcim.2019.101891.
+- S. Tellex, R. A. Knepper, A. Li, T. M. Howard, D. Rus, and N. Roy, “Assembling Furniture by Asking for Help from a Human Partner,” Collab. Manip. Work. Human-Robot Interact., 2013.
+- A. Casalino, F. Cividini, A. M. Zanchettin, L. Piroddi, and P. Rocco, “Human-robot collaborative assembly: a use-case application,” IFAC-PapersOnLine, vol. 51, no. 11, pp. 194–199, 2018, doi: 10.1016/j.ifacol.2018.08.257.
 
 
 # Shared Control
+
+## Example Applications
 - **Example Application:** Teleoperation \
 [<img src="https://img.youtube.com/vi/M6mQWcLAiko/0.jpg" width="30%" height="30%">](https://youtu.be/M6mQWcLAiko)
 
 - **Example Application:** Co-Manipulation \
 [<img src="https://img.youtube.com/vi/xB9-vEiZwKY/0.jpg" width="30%" height="30%">](https://youtu.be/xB9-vEiZwKY?t=28)
 
+## Research & Resources 
+- N. Amirshirzad, A. Kumru, and E. Oztop, “Human adaptation to human-robot shared control,” IEEE Trans. Human-Machine Syst., vol. 49, no. 2, pp. 126–136, 2019, doi: 10.1109/THMS.2018.2884719.
+- K. E. Schaefer, E. R. Straub, J. Y. C. Chen, J. Putney, and A. W. Evans, “Communicating intent to develop shared situation awareness and engender trust in human-agent teams,” Cogn. Syst. Res., vol. 46, pp. 26–39, 2017, doi: 10.1016/j.cogsys.2017.02.002.
 
 
-
-
-### Additional Reading and Resources 
-+ [1] _Human-AI Teaming: State of the Art and Research Needs (2021)_. Washington, D.C.: National Academies Press, 2021.
-
+_Author: Mason Smith_
 [Return Home Page](../index.md)
