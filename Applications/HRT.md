@@ -18,11 +18,14 @@ Task handoff refers to multiple agents that independantly complete subtasks that
 Shared task execution refers to multiple agents that simultanously work on the same subtask. In contrast to task handoff, interaction with shared task execution is at such a high frequency, or possibly continous, that each team member must integrate their perceptions of their partner's actions into their low-level control and decision-making. That is to say, a team of this type must be actively aware of the partner's actions so that they can appropriatley adapt their trajectory and intentions to supplement their parnter.  
 ### Collaborative Assembly
 Collaborative assembly in this context implies that a human and robot are operating in a shared enviorment and must actively adapt to their partner and jointly plain their actions in order to effectivley complete the task. Because collision between the robot and human is certainly possible in this type of enviorment, saftey is of particular interest to control of these robotic devices.
+- YuMi Collaboritve Assembly
+[![YuMi Video](https://img.youtube.com/vi/i9Vbh2mPG6M/0.jpg)](https://youtu.be/i9Vbh2mPG6M)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i9Vbh2mPG6M?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 
+[![Teleop Video](https://img.youtube.com/vi/M6mQWcLAiko/0.jpg)](https://youtu.be/M6mQWcLAiko)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## Co-Manipulation
+
 
 
 
