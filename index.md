@@ -25,7 +25,7 @@ add introduction to HRI
 ## [4. Human Factors & Modeling](/Human_Modeling/Human_Modeling_Home.md) 
 ### [4.a Trust (Sam)](/Human_Modeling/Trust.md) 
 ### [4.b Roles, Agency & Arbitration (Mason)](/Human_Modeling/Roles.md) 
-### [4.c Human Models (Mason)](/Human_Modeling/DecisionModels.md) 
+### [4.c Human Models (Mason)](/Human_Modeling/HumanDecisionMaking.md) 
 
 ## [5. Sensing and Hardware](/Sensing_And_Hardware/Sensing_And_Hardware_Home.md) 
 ### [5.a Collaborative Robot Platforms (Sam)](/Sensing_And_Hardware/Robots.md) 
