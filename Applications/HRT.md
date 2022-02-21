@@ -3,9 +3,10 @@ title: Human Robot Teaming
 ---
 
 [Return Home Page](../index.md)
-# Main Topic 1 
-*(EXAMPLE: Game Theory)* \
-*(Insert short introduction for main topic)*
+# Introduction 
+Robots have recently b
+
+![HRC Modes](https://user-images.githubusercontent.com/62581907/154872059-47b32da3-db2d-4545-b85b-aa44a9a2ba5d.png)
 
 ## Concept or Subtopic 1
 *(EXAMPLE: Nash equilibrium solutions)*\
