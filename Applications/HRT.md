@@ -6,6 +6,10 @@ title: Human Robot Teaming
 # Introduction 
 Robots have recently seen advances in sensing and control such that they can now enter the same workspace as humans. This affords a unique opportunity to apply the strengths of humans (general inteligence, flexibility, and contextual awarness) with the strengths of robots (accuracy, repeatability, and endurance). Effectivly implementing a human-robot team (HRT) can premote task efficiency while reducing cost, fatigue driven error, and risk in several applications. The remainder of this page will now explore the tpyes of HRTs as well as the industries and applications that stand to benifit from introducing a robotic teammate.  Specifically, we will explore three types of interection paradigms that is commonly found when disucssing HRT: 1) task handoff, 2) shared task execution, and 3) shared control.
 
+| Application      | Video Link |
+| ----------- | ----------- |
+|       |        |
+|    |         |
 <!--- ![HRC Modes](https://user-images.githubusercontent.com/62581907/154872098-36b5132e-6880-4e30-a837-aed7ee3d11e3.png) --->
 
 # Handover Task
@@ -18,11 +22,11 @@ The key features of handover tasks are:
 
 ## Example Applications
 
-- **Example Application:** Object Handover \
-[<img src="https://img.youtube.com/vi/I7mAoEJHee4/0.jpg" width="30%" height="30%">](https://youtu.be/I7mAoEJHee4?t=126)
+| Application  | Video Link |
+| ----------- |  :----: |
+| Object Handover                  |[<img src="https://img.youtube.com/vi/I7mAoEJHee4/0.jpg" width="30%" height="30%">](https://youtu.be/I7mAoEJHee4?t=126)   |
+| Assistive Tool & Part Retrivial  |[<img src="https://img.youtube.com/vi/RN9iskWeNfE/0.jpg" width="30%" height="30%">](https://youtu.be/RN9iskWeNfE)   |
 
-- **Example Application:** Assistive Tool & Part Retrivial \
-[<img src="https://img.youtube.com/vi/RN9iskWeNfE/0.jpg" width="30%" height="30%">](https://youtu.be/RN9iskWeNfE)
 
 ## Research & Resources 
 - Huang C-M, Cakmak M, Mutlu B (2015) Adaptive Coordination Strategies for Human-Robot Handovers. Proc. 2015 Robot. Sci. Syst. Conf
@@ -41,11 +45,11 @@ Shared task execution refers to multiple agents that simultanously work on the s
 A common application in industry is for manufacturing; mainly collaborative assembly. Collaborative assembly in this context implies that a human and robot are operating in a shared enviorment and must actively adapt to their partner and jointly plain their actions in order to effectivley complete the task. Because collision between the robot and human is certainly possible in this type of enviorment, saftey is of particular interest to control of these robotic devices.
 
 ## Example Applications
-- **Example Application:** Industrial Pick-and-Place \
-[<img src="https://img.youtube.com/vi/i9Vbh2mPG6M/0.jpg" width="30%" height="30%">](https://youtu.be/i9Vbh2mPG6M)
+| Application  | Video Link |
+| ----------- |  :----: |
+| Pick-and-Place |[<img src="https://img.youtube.com/vi/i9Vbh2mPG6M/0.jpg" width="30%" height="30%">](https://youtu.be/i9Vbh2mPG6M) |
+| Automotive Assembly |[<img src="https://img.youtube.com/vi/O0Xcb_eLjYA/0.jpg" width="30%" height="30%">](https://youtu.be/O0Xcb_eLjYA?t=80) |
 
-- **Example Application:** Automotive Assembly \
-[<img src="https://img.youtube.com/vi/O0Xcb_eLjYA/0.jpg" width="30%" height="30%">](https://youtu.be/O0Xcb_eLjYA?t=80)
 
 ## Research & Resources 
 - A. Hietanen, R. Pieters, M. Lanz, J. Latokartano, and J. K. Kämäräinen, “AR-based interaction for human-robot collaborative manufacturing,” Robot. Comput. Integr. Manuf., vol. 63, no. November 2019, p. 101891, 2020, doi: 10.1016/j.rcim.2019.101891.
@@ -56,11 +60,10 @@ A common application in industry is for manufacturing; mainly collaborative asse
 # Shared Control
 
 ## Example Applications
-- **Example Application:** Teleoperation \
-[<img src="https://img.youtube.com/vi/M6mQWcLAiko/0.jpg" width="30%" height="30%">](https://youtu.be/M6mQWcLAiko)
-
-- **Example Application:** Co-Manipulation \
-[<img src="https://img.youtube.com/vi/xB9-vEiZwKY/0.jpg" width="30%" height="30%">](https://youtu.be/xB9-vEiZwKY?t=28)
+| Application  | Video Link |
+| ----------- |  :----: |
+|Teleoperation | [<img src="https://img.youtube.com/vi/M6mQWcLAiko/0.jpg" width="30%" height="30%">](https://youtu.be/M6mQWcLAiko) |
+|Co-Manipulation | [<img src="https://img.youtube.com/vi/xB9-vEiZwKY/0.jpg" width="30%" height="30%">](https://youtu.be/xB9-vEiZwKY?t=28) |
 
 ## Research & Resources 
 - N. Amirshirzad, A. Kumru, and E. Oztop, “Human adaptation to human-robot shared control,” IEEE Trans. Human-Machine Syst., vol. 49, no. 2, pp. 126–136, 2019, doi: 10.1109/THMS.2018.2884719.
