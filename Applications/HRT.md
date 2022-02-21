@@ -12,10 +12,11 @@ Robots have recently seen advances in sensing and control such that they can now
 Task handoff refers to multiple agents that independantly complete subtasks that accumulate to the final goal of the team. The distingushing feature of this type of interaction is that teammates must be ADD
 
 - **Example Application:** Object Handover \
-[![Object Handover Video](https://img.youtube.com/vi/I7mAoEJHee4/0.jpg)](https://youtu.be/I7mAoEJHee4?t=126)
+[<img src="https://img.youtube.com/vi/I7mAoEJHee4/0.jpg" width="30%" height="30%">](https://youtu.be/I7mAoEJHee4?t=126)
 
 - **Example Application:** Assistive Tool & Part Retrivial \
-[![Retrevial Video](https://img.youtube.com/vi/RN9iskWeNfE/0.jpg)](https://youtu.be/RN9iskWeNfE)
+[<img src="https://img.youtube.com/vi/RN9iskWeNfE/0.jpg" width="30%" height="30%">](https://youtu.be/RN9iskWeNfE)
+
 
 
 
@@ -25,10 +26,11 @@ Shared task execution refers to multiple agents that simultanously work on the s
 A common application in industry is for manufacturing; mainly collaborative assembly. Collaborative assembly in this context implies that a human and robot are operating in a shared enviorment and must actively adapt to their partner and jointly plain their actions in order to effectivley complete the task. Because collision between the robot and human is certainly possible in this type of enviorment, saftey is of particular interest to control of these robotic devices.
 
 - **Example Application:** Industrial Pick-and-Place \
-[![YuMi Video](https://img.youtube.com/vi/i9Vbh2mPG6M/0.jpg)](https://youtu.be/i9Vbh2mPG6M)
+[<img src="https://img.youtube.com/vi/i9Vbh2mPG6M/0.jpg" width="30%" height="30%">](https://youtu.be/i9Vbh2mPG6M)
+
 
 - **Example Application:** Automotive Assembly \
-[![Automotive Video](https://img.youtube.com/vi/O0Xcb_eLjYA/0.jpg)](https://youtu.be/O0Xcb_eLjYA?t=80)
+[<img src="https://img.youtube.com/vi/O0Xcb_eLjYA/0.jpg" width="30%" height="30%">](https://youtu.be/O0Xcb_eLjYA?t=80)
 
 
 
@@ -36,10 +38,10 @@ A common application in industry is for manufacturing; mainly collaborative asse
 
 # Shared Control
 - **Example Application:** Teleoperation \
-[![Teleop Video](https://img.youtube.com/vi/M6mQWcLAiko/0.jpg)](https://youtu.be/M6mQWcLAiko)
+[<img src="https://img.youtube.com/vi/M6mQWcLAiko/0.jpg" width="30%" height="30%">](https://youtu.be/M6mQWcLAiko)
 
 - **Example Application:** Co-Manipulation \
-[![Peg In Hole Video](https://img.youtube.com/vi/xB9-vEiZwKY/0.jpg)](https://youtu.be/xB9-vEiZwKY?t=28)
+[<img src="https://img.youtube.com/vi/xB9-vEiZwKY/0.jpg" width="30%" height="30%">](https://youtu.be/xB9-vEiZwKY?t=28)
 
 
 
