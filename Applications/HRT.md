@@ -8,7 +8,7 @@ Robots have recently seen advances in sensing and control such that they can now
 
 <!--- ![HRC Modes](https://user-images.githubusercontent.com/62581907/154872098-36b5132e-6880-4e30-a837-aed7ee3d11e3.png) --->
 
-# Handover Task
+# Handover Tasks
 Task handoff refers to multiple agents that independantly complete subtasks that accumulate to the final goal of the team. The distingushing feature of this type of interaction is that teammates must be ADD
 
 The key features of handover tasks are:
