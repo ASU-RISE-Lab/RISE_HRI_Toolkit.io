@@ -9,6 +9,17 @@ Industrial interests in autonomous vehicles is of growing interest with automate
 Autonomous Vehicles need to be **safe** as well as should be able to **interact** with other vehicles in crowded environment.
 Often times data driven systems fail to work in previously unseen environment. 
 We provide here some of the algorithms AV interactions have been modeled with some of the available datasets.
+
+#Neural Network 
+##All the social pooling papers and the presentation we made
+
+#Game Theoretic
+## Liting Sun (Berklee)
+## Dorsa Sadigh
+## Sertec Karman (MIT)
+
+#Regression Based
+##Driving Primitives
  
 # Available Datasets
 * [INTERACTION Dataset](https://interaction-dataset.com/)\

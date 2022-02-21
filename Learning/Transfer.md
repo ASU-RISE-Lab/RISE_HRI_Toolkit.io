@@ -25,6 +25,20 @@ In sections below, we will be presenting some of the state of the art algorithms
 
 ## Algorithms for Transfer Learning
 
+## Multi Task Learning and Transfer 
+There exist various techniques that incorporate tasks directly into the definition of the value function
+for multitask learning (Kaelbling, 1993; Ashar, 1994; Sutton et al., 2011). UVFAs have been used for
+zero-shot generalisation to combinations of tasks (Mankowitz et al., 2018; Hermann et al., 2017), or
+to learn a set of fictitious goals previously encountered by the agent (Andrychowicz et al., 2017).
+One of the key aspects of learning can be through MetaLearning where the agents are taught different task and the genralization of the task to a new task is tested.
+Thus signfying true transfer. \
+
+When we think of value functions or universal value functions for the function approximation across tasks, we can look into how transfer learning can be approached using Reinforcement Learning.
+One of the key aspects of transfer in RL to do multi task is through UVFAs.
+Another aspect for transfer in RL is done through the idea of Successor Features, where the reward of the RL algorithm is divided into weights and features associated to the environment.
+Deepmind, has been working on this idea for years now. The associated research for this can be found in [here](https://deepmind.com/blog/article/fast-reinforcement-learning-through-the-composition-of-behaviours)
+
+
 
 ## Transfer Learning in Human-Robot Interaction
 *[Conventions](https://arxiv.org/pdf/2104.02871.pdf)\
@@ -36,6 +50,7 @@ The code for the paper is available [here](https://github.com/Stanford-ILIAD/Con
 
 ## Transfer Learning in Autonomous Vehicles
 *[Transferable and Adaptable Driving Behavior Prediction]
+
 
 ### Simulation Software for Transfer and Generalization
 * [MetaDrive](https://decisionforce.github.io/metadrive/)\
