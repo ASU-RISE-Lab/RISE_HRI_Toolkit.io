@@ -6,10 +6,6 @@ title: Human Robot Teaming
 # Introduction 
 Robots have recently seen advances in sensing and control such that they can now enter the same workspace as humans. This affords a unique opportunity to apply the strengths of humans (general inteligence, flexibility, and contextual awarness) with the strengths of robots (accuracy, repeatability, and endurance). Effectivly implementing a human-robot team (HRT) can premote task efficiency while reducing cost, fatigue driven error, and risk in several applications. The remainder of this page will now explore the tpyes of HRTs as well as the industries and applications that stand to benifit from introducing a robotic teammate.  Specifically, we will explore three types of interection paradigms that is commonly found when disucssing HRT: 1) task handoff, 2) shared task execution, and 3) shared control.
 
-| Application      | Video Link |
-| ----------- | ----------- |
-|       |        |
-|    |         |
 <!--- ![HRC Modes](https://user-images.githubusercontent.com/62581907/154872098-36b5132e-6880-4e30-a837-aed7ee3d11e3.png) --->
 
 # Handover Task
