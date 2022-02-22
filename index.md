@@ -14,7 +14,7 @@ add introduction to HRI
 ## [2. Multi-Agent Interaction](/Multi_Agent_Interaction/Multi_Agent_Interaction_Home.md) 
 ### [2.a Signaling & Communication(Mason)](/Multi_Agent_Interaction/Signaling.md) 
 ### [2.b Game Theory (Yousef)](/Multi_Agent_Interaction/GT.md) 
-### [2.c Safety (Jon)](/Multi_Agent_Interaction/Saftey.md) 
+### [2.c Safety (Jon)](/Multi_Agent_Interaction/Safety.md) 
 
 ## [3. Learning in HRI](/Learning/Learning_Home.md) 
 ### [3.a Reinforcement Learning (Yousef)](/Learning/RL.md) 
