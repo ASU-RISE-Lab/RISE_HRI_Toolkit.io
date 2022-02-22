@@ -34,7 +34,15 @@ Probabilistic Crowd GAN, extends recent work in trajectory prediction, combining
 the use of Graph Vehicle- Pedestrian Attention Network (GVAT), which models social interactions and allows input of a shared vehicle feature, showing that inclusion of this module leads to improved trajectory prediction both with and without the presence of a vehicle.
 
 
-#Game Theoretic
+#Game Theoretic Trajectory Prediction
+Unlike the data driven counterpart, the game theoretic models represents the agents with strategies to reduce their cost function while in interaction with the other agents.
+Nash Equilibrium solutions are heavily exploited in such interactions. Depending on the discrete or continuous action and state space, the solutions to the interaction can be based off of graphical solution to solving Hamilton Jacobi Issac's solution.
+Below are some of the papers that have used game theoretic trajectory predictions. In some solutions the authors deal with incomplete information setting where the intent of the other agents are not present. Here intent refers to the goal directed behavior which is part of any optimization based algorithm. 
+
+### Safe and Interactive Autonomy(https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-143.pdf)
+The presented work is the thesis work of Dorsa Sadign who presented a comprehensive study for Nash Equilibrium solutions in multi agent interaction. The driving interaction in belief update and preferences are highlighted which provides different motion. 
+The papers with the subsequent codes are available in Dorsa's github [here](https://github.com/dsadigh). 
+
 ## Liting Sun (Berklee)
 ## Dorsa Sadigh
 ## Sertec Karman (MIT)
