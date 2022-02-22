@@ -17,7 +17,7 @@ Both sigle and multi joints wearable robots can be used, depending on the gait i
 * []
 
 ## Wearable Sensors 
-Wearable Sensors are essntial in gait robotic rehabilitation to provide real-time user's data and states for the robot controller, as well as analysis and study of the human-robot gait. Encoder and inertial sensors are used to collect walking kinemtics [^w1]. Force plates and force sensor embedded insoles (smart shoes for example) [^w2] are used to study ground contact forces. Electromyography (EMG) [^w3] sensors are used to analyze muscle activities.
+Wearable Sensors are essntial in gait robotic rehabilitation to provide real-time user's data and states for the robot controller, as well as analysis and study of the human-robot gait. Encoder and inertial sensors are used to collect walking kinemtics [^w1]. Force plates and force sensor embedded insoles (smart shoes for example) [^w2] are used to study ground contact forces. Electromyography (EMG) [^w3] sensors are used to analyze muscle activities. 
 ### Aditional Resources
 * []
 [^w1]: A Wireless Human Motion Monitoring System for Smart Rehabilitation (https://asmedigitalcollection.asme.org/dynamicsystems/article/138/11/111004/473999/A-Wireless-Human-Motion-Monitoring-System-for)
@@ -25,5 +25,5 @@ Wearable Sensors are essntial in gait robotic rehabilitation to provide real-tim
 [^w3]: EMG and EPP-Integrated Human–Machine Interface Between the Paralyzed and Rehabilitation Exoskeleton (https://ieeexplore.ieee.org/document/6126040)
 ## Gait Exoskeleton Controller 
 ![Picture6](https://user-images.githubusercontent.com/70563722/155220479-393d6fba-8150-412f-a692-3abeb6dcc838.png)
-The overal control overview of the exoskeleton is shown above
+The overal control overview of gait exoskeleton is shown above [^c1]. The decision-making unit firstly needs to estimate the intent and states of the user based on the data from the sensors. For walking assistance and rehabilitations, estimation of gait phase and activity, along with pose and velocity of different body parts (i.e. pelvis) are vital to the motion/torque planning. In some cases the environemntal factors (train) are also need to be known or estimated, as they can influence the gait pattern and the required assistance. Gait phase and event detection are usually formulated as classification/pattern recogniion problems. Fuzzy Logic [^c2], hidden Markov models (HMM) [c^3] and support vector machines (SVM) [c^4] are among the commonly used methods. 
 [Return Home Page](../index.md)
