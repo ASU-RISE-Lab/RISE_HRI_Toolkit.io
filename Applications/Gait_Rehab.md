@@ -4,7 +4,7 @@ title: Giat Rehabilitation
 
 [Return Home Page](../index.md)
 # Main Topic 1 
-*(EXAMPLE: Game Theory)* \
+*(EXAMPLE: Knee Exo)* \
 *(Insert short introduction for main topic)*
 
 ## Concept or Subtopic 1
