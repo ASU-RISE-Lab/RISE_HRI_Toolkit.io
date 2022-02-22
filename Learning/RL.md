@@ -2,7 +2,8 @@
 title: Reinforcement Learning
 ---
 # Reinforcement Learning
-Reinforcement Learning is another machine learning method and it is based on the idea of learning by interacting with the environment. Reinforcement learning problems involve what to do or how to map situations to actions so as to maximize a reward signal in long term. A reinforcement learning problem is different from other machine learning methods that are based on learning from labeled data, and from this prespective it is more similar to optimal control problems.
+Reinforcement Learning is another machine learning method that is based on the idea of learning by interacting with the environment. Reinforcement learning problems involve what to do or how to map situations to actions so as to maximize a reward signal in long term. A reinforcement learning problem is different from other machine learning methods that are based on learning from labeled data, A reinforcement learning agent learns from interaction with its encironment an the reward signal that it gets from the environment, not from labeled data, and from this prespective it is more similar to optimal control problems.
+Reinforcement learning research is certainly one of the most important part of the way toward the future of AI and HRI.
 ## Deep Learning\
 
 [Deep learning with Python and Tensor Flow](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
