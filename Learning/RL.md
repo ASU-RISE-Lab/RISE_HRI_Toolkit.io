@@ -20,7 +20,7 @@ The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
  With the new version of the Tensorflow, the available code may have some issue with the ModifiedTensorBoard. A functioning code in the Blob Environment is available [here] (https://github.com/sunamatya/Deep_learning_tutorials/blob/main/dqn-1.py)
  
  
- ## Resources
+ ## General Resources
  
 * [Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018](https://books.google.com/books?hl=en&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=reinforcement+learning+an+introduction&ots=mirJs20_p7&sig=CPyQ81-FJiYSX3Pey3cj6v7nXZA#v=onepage&q=reinforcement%20learning%20an%20introduction&f=false)
  
