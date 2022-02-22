@@ -10,26 +10,26 @@ Autonomous Vehicles need to be **safe** as well as should be able to **interact*
 Often times data driven systems fail to work in previously unseen environment. 
 We provide here some of the algorithms AV interactions have been modeled with some of the available datasets.
 
-#Data Driven Multi Agent Trajectory Prediction
+# Data Driven Multi Agent Trajectory Prediction
 With the inception of deep network, Autoencoders and (Generative Adversarial Network) GAN have shown great performance in computer vision applications. 
 However when it comes to encoding interactions in AV setup, the temporal and topological contextual information for all the participating agents are imperative.
 Some of the recent data driven network encoding such information are presented below:
-## [Social GAN](https://openaccess.thecvf.com/content_cvpr_2018/html/Gupta_Social_GAN_Socially_CVPR_2018_paper.html)
+### [Social GAN](https://openaccess.thecvf.com/content_cvpr_2018/html/Gupta_Social_GAN_Socially_CVPR_2018_paper.html)
 One of the most sort out paper, the proposed GAN model was encoded each agent's motion in interpersonal level with the agents in the environment with social acceptance clause and further made the system multimodal.
 The presented social pooling algorithm has influenced other GAN based model for predicting multi agent trajectory.
 
-##[CGNS](https://ieeexplore.ieee.org/abstract/document/8967822)
+### [CGNS](https://ieeexplore.ieee.org/abstract/document/8967822)
 the authors proposed Conditional Generative Neural Systems (CGNS) which jointly predict future trajectories of multiple highly-interactive agents, which takes into account the static context information, interactions among multiple entities and feasibility constraints.
 A block attention mechanism and a Gaussian mixture attention mask are proposed and applied to historical trajectories and scene image sequences respectively, which are computationally efficient.
 Hence the proposed system is context aware, interaction aware, feasibility aware and provides probabilistic condition on predicted algorithm. 
 
-## [Social-WaGDAT](https://arxiv.org/abs/2002.06241)
+### [Social-WaGDAT](https://arxiv.org/abs/2002.06241)
 The authors propose a generic generative neural system (called Social-WaGDAT) for multi-agent trajectory prediction where explicit interaction are modeling by incorporating relational inductive biases with a dynamic graph representation and leverages both trajectory and scene context information. 
 They further employ an efficient kinematic constraint layer applied to vehicle trajectory prediction which not only ensures physical feasibility but also enhances model performance. 
 The system has been evaluated on three public benchmark datasets for trajectory prediction, where the agents cover pedestrians, cyclists and on-road vehicles. 
 The ablation and baseline study carried out in the paper gives an outline on the state of the art algorithms in such social models.
 
-## [Probabilistic Crowd GAN](https://ieeexplore.ieee.org/abstract/document/9123560)
+### [Probabilistic Crowd GAN](https://ieeexplore.ieee.org/abstract/document/9123560)
 Probabilistic Crowd GAN, extends recent work in trajectory prediction, combining Recurrent Neural Networks (RNNs) with Mixture Density Networks (MDNs) to output probabilistic multimodal predictions, from which likely modal paths are found and used for adversarial training.
 the use of Graph Vehicle- Pedestrian Attention Network (GVAT), which models social interactions and allows input of a shared vehicle feature, showing that inclusion of this module leads to improved trajectory prediction both with and without the presence of a vehicle.
 
