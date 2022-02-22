@@ -14,7 +14,7 @@ add introduction to HRI
 ## [2. Multi-Agent Interaction](/Multi_Agent_Interaction/Multi_Agent_Interaction_Home.md) 
 ### [2.a Signaling & Communication(Mason)](/Multi_Agent_Interaction/Signaling.md) 
 ### [2.b Game Theory (Yousef)](/Multi_Agent_Interaction/GT.md) 
-### [2.c Safety (Jon)](/Multi_Agent_Interaction/Saftey.md) 
+### [2.c Safety (Jon)](/Multi_Agent_Interaction/Safety.md) 
 
 ## [3. Learning in HRI](/Learning/Learning_Home.md) 
 ### [3.a Reinforcement Learning (Yousef)](/Learning/RL.md) 
@@ -25,7 +25,7 @@ add introduction to HRI
 ## [4. Human Factors & Modeling](/Human_Modeling/Human_Modeling_Home.md) 
 ### [4.a Trust (Sam)](/Human_Modeling/Trust.md) 
 ### [4.b Roles, Agency & Arbitration (Mason)](/Human_Modeling/Roles.md) 
-### [4.c Human Models (Mason)](/Human_Modeling/DecisionModels.md) 
+### [4.c Human Models (Mason)](/Human_Modeling/HumanDecisionMaking.md) 
 
 ## [5. Sensing and Hardware](/Sensing_And_Hardware/Sensing_And_Hardware_Home.md) 
 ### [5.a Collaborative Robot Platforms (Sam)](/Sensing_And_Hardware/Robots.md) 

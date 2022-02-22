@@ -1,9 +1,9 @@
 ---
-title:  Saftey in Multi-Agent Interaction
+title:  Safety in Multi-Agent Interaction
 ---
 
 [Return Home Page](../index.md)
-# Main Topic 1 
+# Definitions of Safety
 *(EXAMPLE: Game Theory)* \
 *(Insert short introduction for main topic)*
 
