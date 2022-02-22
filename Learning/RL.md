@@ -22,9 +22,12 @@ The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
  
  ## Resources
  
- [Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018](https://books.google.com/books?hl=en&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=reinforcement+learning+an+introduction&ots=mirJs20_p7&sig=CPyQ81-FJiYSX3Pey3cj6v7nXZA#v=onepage&q=reinforcement%20learning%20an%20introduction&f=false)
+ *[Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018](https://books.google.com/books?hl=en&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=reinforcement+learning+an+introduction&ots=mirJs20_p7&sig=CPyQ81-FJiYSX3Pey3cj6v7nXZA#v=onepage&q=reinforcement%20learning%20an%20introduction&f=false)
  
-  [ Bertsekas, Dimitri. Reinforcement learning and optimal control. Athena Scientific, 2019](https://books.google.com/books?hl=en&lr=&id=2f85EAAAQBAJ&oi=fnd&pg=PR1&dq=REINFORCEMENT+LEARNING+AND+OPTIMAL+CONTROL.+BOOKS&ots=tgbnQA_HJ4&sig=e4XLUf30DS88Ih2qZCT-u-j0RFU#v=onepage&q=REINFORCEMENT%20LEARNING%20AND%20OPTIMAL%20CONTROL.%20BOOKS&f=false)
+  *[ Bertsekas, Dimitri. Reinforcement learning and optimal control. Athena Scientific, 2019](https://books.google.com/books?hl=en&lr=&id=2f85EAAAQBAJ&oi=fnd&pg=PR1&dq=REINFORCEMENT+LEARNING+AND+OPTIMAL+CONTROL.+BOOKS&ots=tgbnQA_HJ4&sig=e4XLUf30DS88Ih2qZCT-u-j0RFU#v=onepage&q=REINFORCEMENT%20LEARNING%20AND%20OPTIMAL%20CONTROL.%20BOOKS&f=false)
+  
+  *[Coursera: Reinforcement Learning Specialization, University of Alberta](https://www.coursera.org/specializations/reinforcement-learning)
+  
  * Keras
  * Tensorflow
  * PyTorch
