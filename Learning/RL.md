@@ -28,7 +28,7 @@ The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
   
 * [Coursera: Reinforcement Learning Specialization, University of Alberta](https://www.coursera.org/specializations/reinforcement-learning)
   
-* [Stefan Otte: Deep Neural Networks with PyTorch | PyData Berlin 2018](https://www.youtube.com/watch?v=_H3aw6wkCv0)
+* [Stefan Otte: Deep Neural Networks with PyTorch | PyData Berlin 2018](https://youtu.be/_H3aw6wkCv0)
 
 * Keras
 * Tensorflow
