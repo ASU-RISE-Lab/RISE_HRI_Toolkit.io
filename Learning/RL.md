@@ -13,7 +13,7 @@ Reinforcement learning research is certainly one of the most important part of t
 
 Link to the first few application of deep learning for classification of images are available [here](https://github.com/sunamatya/Deep_learning_tutorials)
 
-### Deep Q Network\
+### Deep Q Network
 The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
  DQN combining reinforcement learning and deep neural networks at scale. 
  The algorithm was developed by enhancing a classic RL algorithm called Q-Learning with deep neural networks and a technique called **experience replay**.\
@@ -24,7 +24,7 @@ The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
  With the new version of the Tensorflow, the available code may have some issue with the ModifiedTensorBoard. A functioning code in the Blob Environment is available [here] (https://github.com/sunamatya/Deep_learning_tutorials/blob/main/dqn-1.py)
  
  
- ## General Resources\
+ ## General Resources
 * [Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018](https://books.google.com/books?hl=en&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=reinforcement+learning+an+introduction&ots=mirJs20_p7&sig=CPyQ81-FJiYSX3Pey3cj6v7nXZA#v=onepage&q=reinforcement%20learning%20an%20introduction&f=false)
  
 * [ Bertsekas, Dimitri. Reinforcement learning and optimal control. Athena Scientific, 2019](https://books.google.com/books?hl=en&lr=&id=2f85EAAAQBAJ&oi=fnd&pg=PR1&dq=REINFORCEMENT+LEARNING+AND+OPTIMAL+CONTROL.+BOOKS&ots=tgbnQA_HJ4&sig=e4XLUf30DS88Ih2qZCT-u-j0RFU#v=onepage&q=REINFORCEMENT%20LEARNING%20AND%20OPTIMAL%20CONTROL.%20BOOKS&f=false)
