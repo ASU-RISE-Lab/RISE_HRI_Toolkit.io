@@ -43,13 +43,6 @@ The DQN (Deep Q-Network) algorithm was developed by DeepMind in 2015.
 
 
 
-* Keras
-* Tensorflow
-* PyTorch
- 
-
-
-
 [Return Home Page](../index.md)
 # Main Topic 1 
 *(EXAMPLE: Game Theory)* \
