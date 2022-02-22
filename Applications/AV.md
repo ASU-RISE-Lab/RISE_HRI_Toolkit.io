@@ -18,7 +18,7 @@ Some of the recent data driven network encoding such information are presented b
 One of the most sort out paper, the proposed GAN model was encoded each agent's motion in interpersonal level with the agents in the environment with social acceptance clause and further made the system multimodal.
 The presented social pooling algorithm has influenced other GAN based model for predicting multi agent trajectory.
 
-##[CGNS]()
+##[CGNS](https://ieeexplore.ieee.org/abstract/document/8967822)
 the authors proposed Conditional Generative Neural Systems (CGNS) which jointly predict future trajectories of multiple highly-interactive agents, which takes into account the static context information, interactions among multiple entities and feasibility constraints.
 A block attention mechanism and a Gaussian mixture attention mask are proposed and applied to historical trajectories and scene image sequences respectively, which are computationally efficient.
 Hence the proposed system is context aware, interaction aware, feasibility aware and provides probabilistic condition on predicted algorithm. 
