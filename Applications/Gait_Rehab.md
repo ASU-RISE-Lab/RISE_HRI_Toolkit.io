@@ -12,7 +12,7 @@ Lower-limb exoskeletons need to be light-weight,compact, powerfull enough to ass
 Both sigle and multi-joint wearable robots can be used, depending on the gait impairment and assistance goal.   
 
 ### Additional Resources
-* [Hybrid Assistive Limb (HAL)] (https://www.cyberdyne.jp/english/products/HAL/)
+* [Hybrid Assistive Limb (HAL)](https://www.cyberdyne.jp/english/products/HAL/)
 
 ## Wearable Sensors 
 Wearable Sensors are essntial in gait robotic rehabilitation to provide real-time user's data and states for the robot controller, as well as analysis and study of the human-robot gait. Encoder and inertial sensors are used to collect walking kinemtics [^w1]. Force plates and force sensor embedded insoles (smart shoes for example) [^w2] are used to study ground contact forces. Electromyography (EMG) [^w3] sensors are used to analyze muscle activities. 
