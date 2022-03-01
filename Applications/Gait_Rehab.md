@@ -9,10 +9,10 @@ The aging population and neurological disorders such as stroke and Parkinson’s
 
 ## Wearable Robots (Exoskeletons)
 Lower-limb exoskeletons need to be light-weight,compact, powerfull enough to assist gait and lower-limb motions, safe and reliable. Series-elastic and cable-driven actuators [^1], soft actuators [^soft], and variable stiffness [^2] are among the widely used mechanisms to reach those goals.  
-Both sigle and multi joints wearable robots can be used, depending on the gait impairment and assistance goal.   
+Both sigle and multi-joint wearable robots can be used, depending on the gait impairment and assistance goal.   
 
 ### Additional Resources
-* []
+* [Hybrid Assistive Limb (HAL)] (https://www.cyberdyne.jp/english/products/HAL/)
 
 ## Wearable Sensors 
 Wearable Sensors are essntial in gait robotic rehabilitation to provide real-time user's data and states for the robot controller, as well as analysis and study of the human-robot gait. Encoder and inertial sensors are used to collect walking kinemtics [^w1]. Force plates and force sensor embedded insoles (smart shoes for example) [^w2] are used to study ground contact forces. Electromyography (EMG) [^w3] sensors are used to analyze muscle activities. 
@@ -25,7 +25,7 @@ The overal control overview of gait exoskeleton is shown above [^c1]. The decisi
 The mid-level controller mapps the detected intent and rehabilitation or assistance strategies to the desired device states for the low-level controller to track. Impedance controller is one of the most widely used method in this field regarding its clear physical intuition and simple implementation [^c5]. This approach gives the ability of controlling the position of the end-effector of the robot while maintaining safety limits on human-robot interaction force, which is desirable for rehabilitation and assistance applications. It is usually needed to modulate the impedance values based on different gait phases and activities [^c6] [^c7]. More controllers and strategies for lower-limb exoskeletons are included in the additional resources below. 
 ### Aditional Resources
 * []
-* 
+
 [^w1]: A Wireless Human Motion Monitoring System for Smart Rehabilitation (https://asmedigitalcollection.asme.org/dynamicsystems/article/138/11/111004/473999/A-Wireless-Human-Motion-Monitoring-System-for)
 [^w2]: An Advanced Gait Monitoring System Based on Air Pressure Sensor Embedded in a Shoe (https://www.sciencedirect.com/science/article/pii/S1877705812021121)
 [^w3]: EMG and EPP-Integrated Human–Machine Interface Between the Paralyzed and Rehabilitation Exoskeleton (https://ieeexplore.ieee.org/document/6126040)
