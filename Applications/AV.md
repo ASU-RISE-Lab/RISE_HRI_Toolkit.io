@@ -4,7 +4,7 @@ title: Autonomous Vehicles
 
 [Return Home Page](../index.md)
 # Introduction
-Driver behavior or error factor in 94% of crashes, and self-driving vehicles can help reduce driver error. 
+Driver error factors in 94% of causes of car crashes. Self-driving vehicles help in reduced such driver error saving lives. 
 Industrial interests in autonomous vehicles is of growing interest with automated deliveries amid safety interests during Covid-19 pandemic.
 Autonomous Vehicles need to be **safe** as well as should be able to **interact** with other vehicles in crowded environment.
 Often times data driven systems fail to work in previously unseen environment. 
@@ -54,7 +54,7 @@ The presented algorithm has been further validated in the NSGIM dataset
 
  
 # Available Datasets
-* [INTERACTION Dataset](https://interaction-dataset.com/)\
+* [**INTERACTION Dataset**](https://interaction-dataset.com/)\
 The INTERACTION dataset contains naturalistic motions of various traffic participants in a variety of highly interactive driving scenarios from different countries. 
 * [NSGIM Dataset](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm)\
 NSGIM dataset has been developed with the intention of open behavioral algorithms in support of traffic simulation with a primary focus on microscopic modeling, including supporting documentation and validation data sets that describe the interactions of multimodal travelers, vehicles and highway systems, and interactions presented to them from traffic control devices, delineation, congestion, and other features of the environment.
@@ -69,10 +69,10 @@ The Waymo Open Dataset is a perception dataset comprising high resolution sensor
 
 
 ### Sample Projects
-* [Scalable and Customizable Intent Inference and Motion Planning for Socially-Adept Autonomous Vehicles](https://home.riselab.info/nri.html)
+* [Scalable and Customizable Intent Inference and Motion Planning for Socially-Adept Autonomous Vehicles](https://home.riselab.info/nri.html)\
 The overall objective of this project is to allow future autonomous vehicles to interact with multiple surrounding vehicles in a safe and socially-adept manner. 
 The authors develop a game based dynamics-aware intent inference algorithm which enables courteous vehicle interaction.
-The available code is available [here](https://github.com/sunamatya/SocialGracefullnessTIV)
+The code is available [here](https://github.com/sunamatya/SocialGracefullnessTIV)
  
 ### Additional Videos and Media
 + [Introductory lecture of the MIT Self-Driving Cars series (6.S094) with an overview of the autonomous vehicle industry in 2018.](https://www.youtube.com/watch?v=sRxaMDDMWQQ&t=128s)
