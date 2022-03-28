@@ -3,14 +3,14 @@ title: Autonomous Vehicles
 ---
 
 [Return Home Page](../index.md)
-# Introduction
+## Introduction
 Driver error factors in 94% of causes of car crashes. Self-driving vehicles help in reduced such driver error saving lives. 
 Industrial interests in autonomous vehicles is of growing interest with automated deliveries amid safety interests during Covid-19 pandemic.
 Autonomous Vehicles need to be **safe** as well as should be able to **interact** with other vehicles in crowded environment.
 Often times data driven systems fail to work in previously unseen environment. 
 We provide here some of the algorithms AV interactions have been modeled with some of the available datasets.
 
-# Data Driven Multi Agent Trajectory Prediction
+## Data Driven Multi Agent Trajectory Prediction
 With the inception of deep network, Autoencoders and (Generative Adversarial Network) GAN have shown great performance in computer vision applications. 
 However when it comes to encoding interactions in AV setup, the temporal and topological contextual information for all the participating agents are imperative.
 Some of the recent data driven network encoding such information are presented below:
@@ -34,7 +34,7 @@ Probabilistic Crowd GAN, extends recent work in trajectory prediction, combining
 the use of Graph Vehicle- Pedestrian Attention Network (GVAT), which models social interactions and allows input of a shared vehicle feature, showing that inclusion of this module leads to improved trajectory prediction both with and without the presence of a vehicle.
 
 
-# Game Theoretic Trajectory Prediction
+## Game Theoretic Trajectory Prediction
 Unlike the data driven counterpart, the game theoretic models represents the agents with strategies to reduce their cost function while in interaction with the other agents.
 Nash Equilibrium solutions are heavily exploited in such interactions. Depending on the discrete or continuous action and state space, the solutions to the interaction can be based off of graphical solution to solving Hamilton Jacobi Issac's solution.
 Below are some of the papers that have used game theoretic trajectory predictions. In some solutions the authors deal with incomplete information setting where the intent of the other agents are not present. Here intent refers to the goal directed behavior which is part of any optimization based algorithm. 
@@ -53,7 +53,7 @@ We present a framework that integrates social psychology tools into controller d
 The presented algorithm has been further validated in the NSGIM dataset
 
  
-# Available Datasets
+## Available Datasets
 * [**INTERACTION Dataset**](https://interaction-dataset.com/)\
 The INTERACTION dataset contains naturalistic motions of various traffic participants in a variety of highly interactive driving scenarios from different countries. 
 * [**NSGIM Dataset**](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm)\
