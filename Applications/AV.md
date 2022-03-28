@@ -43,12 +43,15 @@ Below are some of the papers that have used game theoretic trajectory prediction
 The presented work is the thesis work of Dorsa Sadign who presented a comprehensive study for Nash Equilibrium solutions in multi agent interaction. The driving interaction in belief update and preferences are highlighted which provides different motion. 
 The papers with the subsequent codes are available in Dorsa's github [here](https://github.com/dsadigh). 
 
-## Liting Sun (Berklee)
-## Dorsa Sadigh
-## Sertec Karman (MIT)
+## [Courteous Autonomous Cars](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8593969)
+Besides performing a game theoretic solution for multi agent interactions, the authors here  formalize courtesy as a
+term in the objective that measures the increase in another
+driver’s cost induced by the autonomous car’s behavior. The courteous behavior aids in explaining human driving. The authors have further validated the proposed algorithm in NSGIM Dataset.
 
-#Regression Based
-##Driving Primitives
+## [Social Behavior in Autonomous Vehicles] (https://www.pnas.org/doi/10.1073/pnas.1820676116)
+We present a framework that integrates social psychology tools into controller design for autonomous vehicles. Our key insight utilizes Social Value Orientation (SVO), quantifying an agent’s degree of selfishness or altruism, which allows us to better predict driver behavior.
+The presented algorithm has been further validated in the NSGIM dataset
+
  
 # Available Datasets
 * [INTERACTION Dataset](https://interaction-dataset.com/)\
@@ -66,26 +69,17 @@ The Waymo Open Dataset is a perception dataset comprising high resolution sensor
 
 
 ### Sample Projects
-*(ADD: RISE Code/Github link and description)*\
-*(ADD: or in text example/walkthrough)*
+*Scalable and Customizable Intent Inference and Motion Planning for Socially-Adept Autonomous Vehicles [https://home.riselab.info/nri.html]
+The overall objective of this project is to allow future autonomous vehicles to interact with multiple surrounding vehicles in a safe and socially-adept manner. 
+The authors develop a game based dynamics-aware intent inference algorithm which enables courteous vehicle interaction.
+The available code is available [here](https://github.com/sunamatya/SocialGracefullnessTIV)
  
-### Additional Reading
-+ *(ADD: Article)*
-+ *(ADD: Article)*
-+ *(ADD: Article)*
-
-
-## Concept or Subtopic 2
-*(EXAMPLE: Pareto optimality)*\
-*(ADD: description of concept or subtopic)*
-
-### Sample Projects
-*(ADD: RISE Code/Github link and description)*\
-*(ADD: or in text example/walkthrough)*
+### Additional Videos and Media
++ [Introductory lecture of the MIT Self-Driving Cars series (6.S094) with an overview of the autonomous vehicle industry in 2018.] (https://www.youtube.com/watch?v=sRxaMDDMWQQ&t=128s)
++ [A Veratasium video on WAYMO cars on road](https://www.youtube.com/watch?v=yjztvddhZmI)
 
 ### Additional Reading
-+ *(ADD: Article or resource)*
-+ *(ADD: Article or resource)*
-+ *(ADD: Article or resource)*
++ [Autonomous Driving: Technical, Legal and Social Aspects](https://www.google.com/books/edition/Autonomous_Driving/HdtCDwAAQBAJ?hl=en&gbpv=1)
++ [Autonomous Vehicles: Technologies, Regulations and Societal Impacts](https://www.google.com/books/edition/Autonomous_Vehicles/BggWEAAAQBAJ?hl=en&gbpv=1&dq=autonomous+vehicles&printsec=frontcover)
 
 [Return Home Page](../index.md)
