@@ -75,7 +75,7 @@ The authors develop a game based dynamics-aware intent inference algorithm which
 The code is available [**here**](https://github.com/sunamatya/SocialGracefullnessTIV)
  
 ### Additional Videos and Media
-+ [Introductory lecture of the MIT Self-Driving Cars series (6.S094) with an overview of the autonomous vehicle industry in 2018.](https://www.youtube.com/watch?v=sRxaMDDMWQQ&t=128s)
++ [MIT deep learning series on Autonomous Driving](https://deeplearning.mit.edu/)
 + [A Veratasium video on WAYMO cars on road](https://www.youtube.com/watch?v=yjztvddhZmI)
 
 ### Additional Reading
