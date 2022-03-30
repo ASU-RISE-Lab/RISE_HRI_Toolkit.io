@@ -14,7 +14,7 @@ We provide here some of the algorithms AV interactions have been modeled with so
 With the inception of deep network, Autoencoders and (Generative Adversarial Network) GAN have shown great performance in computer vision applications. 
 However when it comes to encoding interactions in AV setup, the temporal and topological contextual information for all the participating agents are imperative.
 Some of the recent data driven network encoding such information are presented below:
-![Socgan](https://github.com/ASU-RISE-Lab/RISE_HRI_Toolkit.io/blob/main/Applications/figures/social_gan.png)
+
 ### [Social GAN](https://openaccess.thecvf.com/content_cvpr_2018/html/Gupta_Social_GAN_Socially_CVPR_2018_paper.html)
 One of the most sort out paper, the proposed GAN model was encoded each agent's motion in interpersonal level with the agents in the environment with social acceptance clause and further made the system multimodal.
 The presented social pooling algorithm has influenced other GAN based model for predicting multi agent trajectory.
