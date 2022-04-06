@@ -36,6 +36,7 @@ Based on the application, the transfer learning algorithms vary to a certain deg
 
 ### Sample Projects
 * Transfer Learning in Computer Vision\
+
 | Application  | Video Link |
 | ----------- |  :----: |
 |     <img src="https://img.youtube.com/vi/I7mAoEJHee4/0.jpg" width="30%" height="30%">     |     Transfer learning is a popular method in computer vision because it allows us to build accurate models in a timesaving way (Rawat & Wang 2017). With transfer learning, instead of starting the learning process from scratch, you start from patterns that have been learned when solving a different problem [**here**](https://github.com/sunamatya/SocialGracefullnessTIV).
