@@ -36,7 +36,7 @@ Based on the application, the transfer learning algorithms vary to a certain deg
 
 ### Sample Projects
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Can I put comment beside the octocat
+![Octocat](https://github.com/ASU-RISE-Lab/RISE_HRI_Toolkit.io/blob/main/Applications/figures/social_gan.png) Can I put comment beside the octocat
 
 | Application  | Description |
 | ----------- |  :----: |
