@@ -36,6 +36,11 @@ Based on the application, the transfer learning algorithms vary to a certain deg
 
 ### Sample Projects
 
+| Application  | Video Link |
+| ----------- |  :----: |
+| Object Handover                  |[<img src="https://img.youtube.com/vi/I7mAoEJHee4/0.jpg" width="30%" height="30%">](https://youtu.be/I7mAoEJHee4?t=126)   |
+| Assistive Tool & Part Retrivial  |[<img src="https://img.youtube.com/vi/RN9iskWeNfE/0.jpg" width="30%" height="30%">](https://youtu.be/RN9iskWeNfE)   |
+
 |     <img src="https://img.youtube.com/vi/I7mAoEJHee4/0.jpg" width="30%" height="30%">     |     Transfer Learning in Computer Vision\
 Transfer learning is a popular method in computer vision because it allows us to build accurate models in a timesaving way (Rawat & Wang 2017). With transfer learning, instead of starting the learning process from scratch, you start from patterns that have been learned when solving a different problem [**here**](https://github.com/sunamatya/SocialGracefullnessTIV).
 The [website](https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751#:~:text=Transfer%20learning%20is%20a%20popular,when%20solving%20a%20different%20problem.) provides sample code on using deep learning method to develop classifier for identifying cats from re-purposing a pre trainined model. 
