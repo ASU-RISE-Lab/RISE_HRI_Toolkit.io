@@ -36,7 +36,7 @@ Based on the application, the transfer learning algorithms vary to a certain deg
 
 ### Sample Projects
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Can I put comment beside the octocat
 
 | Application  | Description |
 | ----------- |  :----: |
