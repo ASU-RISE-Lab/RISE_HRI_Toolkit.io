@@ -37,6 +37,12 @@ The authors in social cobot paper (found [here](https://www.sciencedirect.com/sc
 
 ![image](https://user-images.githubusercontent.com/62581907/163053105-f85a42df-2320-4edf-86dc-62f1daa04b71.png)
 
+A similar study was done (found [here](https://www.sciencedirect.com/science/article/abs/pii/S0007850619301593)) where humans and robots intermittantly collaborated on a factory floor. These authors were able to identify human states and intentions to effictively collaborate in, take-over, and surrender tasks as the human moved around this enviorment under thier proposed models of trust.
+
+![image](https://user-images.githubusercontent.com/62581907/163054028-91e5598e-53a2-4493-b4d7-f9c9459034c7.png)
+
+
+
 ### Additional Reading
 + [Symbiotic human-robot collaborative assembly](https://www.sciencedirect.com/science/article/abs/pii/S0007850619301593?casa_token=APqvpoaiT1QAAAAA:4ttyWewDfeyilQtHYyGLGREwu3nwPehZK1i5IYSaVh0iFgt3c6o3e-GGg1HYReu2-2yi98CnbC8)
 + [Symbiotic human-robot collaborative assembly](https://www.sciencedirect.com/science/article/abs/pii/S0007850619301593)
