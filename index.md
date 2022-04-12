@@ -24,6 +24,7 @@ add introduction to HRI
 
 ## [4. Human Factors & Modeling](/Human_Modeling/Human_Modeling_Home.md) 
 ### [4.a Trust (Sam)](/Human_Modeling/Trust.md) 
+### [4.a Calibrating Trust (Mason)](/Human_Modeling/Trust.md) 
 ### [4.b Roles, Agency & Arbitration (Mason)](/Human_Modeling/Roles.md) 
 ### [4.c Human Models (Mason)](/Human_Modeling/HumanDecisionMaking.md) 
 
