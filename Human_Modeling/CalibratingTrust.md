@@ -50,6 +50,9 @@ A similar study was done (found [here](https://www.sciencedirect.com/science/art
 
 # Dynamic Models of Trust
 
+### Additional Reading
++ [Factors affecting trust in high-vulnerability human-robot interaction contexts: A structural equation modelling approach](https://www.sciencedirect.com/science/article/pii/S0003687020300132)
+
 
 
 
