@@ -30,13 +30,19 @@ Similar studies were done with table-carrying (found [here](https://ieeexplore.i
 
 
 # Incorperating Unexpected Human Behaviors
+The previous section deals with how to interact with humans that are suboptimal. We will now look at how to calibrate trust when the human is not necesarrly behaving subotionally or when there is low ammount of trust in the robot.  Humans tend to be very good at make decisions in new scenarios. Robots are not so good at this and can percieve the human to be acting suboptimally when infact they are not. This also motivates a second question; does the human even want the help of the robot? The following studies will look at these perspectives and provide a framework of dealing with unexpected behaviors.
+
+## Sample Projects
+The authors in social cobot paper (found [here](https://www.sciencedirect.com/science/article/abs/pii/S0007850619301593?casa_token=APqvpoaiT1QAAAAA:4ttyWewDfeyilQtHYyGLGREwu3nwPehZK1i5IYSaVh0iFgt3c6o3e-GGg1HYReu2-2yi98CnbC8) proposed a way that the human may a) have intentions that are irrelevant and unkown intentions (motivation loss, alternative tasks, fatigue, ect...) and b) relevant intentions that they do not want the robot to assist with (distrust in robot, emotional state, ect...). They generated robot behavior that can both actively assist, stand by until needed, or communicate unexpected behaviors in a way that aligns with their turst in the robot. Consequently, the robot _optimally_ achieves the collaboration without overstepping its role in the human's task. The best example of this would be when the human does not desire robot intervention (due to distrust) but is distracted (looking around or performing tasks irrelevant to team goals), the robot may point to the object that it thinks is the optimal action that the human should take. They foound that proactively planning robot behavior, in accordance with the estimated trust in the robot, generated the most successfull interaction.
+
+![image](https://user-images.githubusercontent.com/62581907/163053105-f85a42df-2320-4edf-86dc-62f1daa04b71.png)
 
 ### Additional Reading
 + [Symbiotic human-robot collaborative assembly](https://www.sciencedirect.com/science/article/abs/pii/S0007850619301593?casa_token=APqvpoaiT1QAAAAA:4ttyWewDfeyilQtHYyGLGREwu3nwPehZK1i5IYSaVh0iFgt3c6o3e-GGg1HYReu2-2yi98CnbC8)
 + [Symbiotic human-robot collaborative assembly](https://www.sciencedirect.com/science/article/abs/pii/S0007850619301593)
 
 
-# Explainability and Transparancy
+# Dynamic Models of Trust
 
 
 
