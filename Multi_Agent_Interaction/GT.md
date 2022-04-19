@@ -8,8 +8,9 @@ The other main branch is non-cooperative game theory. Non-cooperative game theor
 
 [Return Home Page](../index.md)
 ## Differential Game Thory & Optimal Control 
-*(EXAMPLE: Game Theory)* \
-*(Insert short introduction for main topic)*
+In game theory, differential games are a group of problems related to the modeling and analysis of conflict in the context of a dynamical system. More specifically, a state variable or variables evolve over time according to a differential equation.
+
+Differential games are related closely with optimal control problems. In an optimal control problem there is single control {\displaystyle u(t)}u(t) and a single criterion to be optimized; differential game theory generalizes this to two controls {\displaystyle u_{1}(t),u_{2}(t)}{\displaystyle u_{1}(t),u_{2}(t)} and two criteria, one for each player. Each player attempts to control the state of the system so as to achieve its goal; the system responds to the inputs of all players.
 
 ## [Monte Carlo Tree Search](https://medium.com/@pedrohbtp/ai-monte-carlo-tree-search-mcts-49607046b204)
 
