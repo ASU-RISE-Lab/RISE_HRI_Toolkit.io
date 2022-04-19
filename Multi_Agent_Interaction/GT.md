@@ -10,7 +10,30 @@ The other main branch is non-cooperative game theory. Non-cooperative game theor
 ## Differential Game Thory & Optimal Control 
 In game theory, differential games are a group of problems related to the modeling and analysis of conflict in the context of a dynamical system. More specifically, a state variable or variables evolve over time according to a differential equation.
 
-Differential games are related closely with optimal control problems. In an optimal control problem there is single control {\displaystyle u(t)}u(t) and a single criterion to be optimized; differential game theory generalizes this to two control signals and two criteria, one for each player. Each player attempts to control the state of the system so as to achieve its goal; the system responds to the inputs of all players.
+Differential games are related closely with optimal control problems. In an optimal control problem there is single control signal and a single criterion to be optimized; differential game theory generalizes this to two ore more control signals and two or more criteria, one for each player. Each player attempts to control the state of the system so as to achieve its goal; the system responds to the inputs of all players.
+
+## Application to HRI
+Wherever there are two or more agents interacting with eachother, we can use game theory to model these interactions and to describe the underlying dynamics of these interactions. From Human-Human interactions to Robot-Robot interactions, from aoutonomus vehicles to rehabilitation robotics, from leader-follower tasks to cooperitive tasks.
+Below you can find several papers applying game theory methods to variety of problems:
+
+* [A framework to describe, analyze and generate interactive motor behaviors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0049945)
+
+* [Differential game theory for versatile physical human–robot interaction](https://www.nature.com/articles/s42256-018-0010-3)
+
+* [A game theory of mind](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000254)
+
+* [Nash Equilibria in Multi-Agent Motor Interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000468)
+
+* [A Review of Intent Detection, Arbitration, and Communication Aspects of Shared Control for Physical Human–Robot Interaction](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/70/1/010804/443697)
+
+* [Cooperating with machines](https://www.nature.com/articles/s41467-017-02597-8)
+
+* [Communication and inference of intended movement direction during human–human physical interaction](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00021/full)
+
+* [Physical Collaboration of Human-Human and Human-Robot Teams](https://ieeexplore.ieee.org/abstract/document/4624256/)
+
+* [Physically interacting individuals estimate the partner’s goal to enhance their movements](https://www.nature.com/articles/s41562-017-0054)
+
 
  ## General Resources
 * [Binmore, Ken. Game theory: a very short introduction. OUP Oxford, 2007.](https://books.google.com/books?hl=en&lr=&id=0EXl-FXxs2oC&oi=fnd&pg=PP12&dq=game+theory+books&ots=nT9nvNTLFD&sig=fanGhU-l9kf5gIpMPXuoY2ip_Z0#v=onepage&q=game%20theory%20books&f=false)
