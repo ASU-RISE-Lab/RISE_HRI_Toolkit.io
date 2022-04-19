@@ -15,6 +15,7 @@ Differential games are related closely with optimal control problems. In an opti
  ## General Resources
 * [Binmore, Ken. Game theory: a very short introduction. OUP Oxford, 2007.](https://books.google.com/books?hl=en&lr=&id=0EXl-FXxs2oC&oi=fnd&pg=PP12&dq=game+theory+books&ots=nT9nvNTLFD&sig=fanGhU-l9kf5gIpMPXuoY2ip_Z0#v=onepage&q=game%20theory%20books&f=false)
 
+* [Faruqi, Farhan A. Differential game theory with applications to missiles and autonomous systems guidance. John Wiley & Sons, 2017.](https://books.google.com/books?hl=en&lr=&id=JTtGDgAAQBAJ&oi=fnd&pg=PR11&dq=Differential+game+theory+books&ots=DiushxBTt&sig=Hxk0E5oB_N67JuV_CTbFYpWFIC8#v=onepage&q=Differential%20game%20theory%20books&f=false)
 ## Concept or Subtopic 1
 *(EXAMPLE: Nash equilibrium solutions)*\
 *(ADD: description of concept or subtopic)*
