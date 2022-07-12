@@ -22,6 +22,8 @@ in Impedance Control we often consider a desired trajectory for our state variab
 |:--:|
 | *Fig2: a complete control loop for impedance control  |
 
+![image](https://user-images.githubusercontent.com/76622843/178602962-ff58e289-ad57-44d9-827b-c191d3ec8ae2.png)
+
 
  ### General Resources For Impedance Control
 * [Impedance control: An approach to manipulation: Part II—Implementation, Nevill Hogan]([https://books.google.com/books?hl=en&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=reinforcement+learning+an+introduction&ots=mirJs20_p7&sig=CPyQ81-FJiYSX3Pey3cj6v7nXZA#v=onepage&q=reinforcement%20learning%20an%20introduction&f=false](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P7S5TY0AAAAJ&citation_for_view=P7S5TY0AAAAJ:3bvyWxjaHKcC))
