@@ -12,6 +12,8 @@ Impedance control is an approach to dynamic control relating force and position.
 |:--:|
 | *Fig1: Impedance control often models the contact force and interactions between manupulator and its environment as a mass-spring-damper system  |
 
+
+
 in Impedance Control we often consider a desired trajectory for our state variables and using that desired trajectory and the modeled mass-spring system as a control law, we close the control loop and calculate the force that we need to force control our system:
 
 
