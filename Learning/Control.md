@@ -8,7 +8,7 @@ Here, we are going to introduce some of these subcategories with so many applica
 Impedance Control was first introduced by MIT professor, Nevill Hogan, in 1985 and it is still a useful high level control method in physical human robot interactions.
 Impedance control is an approach to dynamic control relating force and position. It is often used in applications where a manipulator interacts with its environment and the force position relation is of concern.
 
-| ![Imp.pnj](![Uploading Imp.jfif…]()) |
+| ![Imp.JFIF](![Uploading Imp.jfif…]()) |
 |:--:|
 | *Fig1: The agent-environment interaction in reinforcement learning [^1]* |
 
