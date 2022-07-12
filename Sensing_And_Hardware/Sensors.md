@@ -1,25 +1,28 @@
 ---
-title: Sensors
+title: Sensors for HRI Applications
 ---
+The artificial sensors used for HRI applications can be identified in four main categories: Vision, Touch, Auditory, and Distance. []\
 
-[Return Home Page](../index.md)
-# Main Topic 1 
-*(EXAMPLE: Game Theory)* \
-*(Insert short introduction for main topic)*
+![Sensor in human-robot applications](/Sensing_And_Hardware/fnbot-14-576846-g001.jpg)
+# Vision 
+In robotic vision, images taken by cameras are processed to produce numeric or symbolic information used to understand the environment and human intention, as well as  to reproduce human sight.
 
-## Concept or Subtopic 1
-*(EXAMPLE: Nash equilibrium solutions)*\
-*(ADD: description of concept or subtopic)*
+## Visial Servoing
+Visual servoing refers to the use of vision to control the robot motion []. The camera may be mounted on a moving part of the robot, or fixed in the workspace. Visual servoing is called image-based when the the error and states are defined in image space, or its called position based when they are defined in 3D operational space. \
+ In HRI, humans generally use vision to teach the robot specific configurations or sending the desired reference view []. In assistive robotics, visual servoing has been used to correct user trajectories [].
 
-### Sample Projects
-*(ADD: RISE Code/Github link and description)*\
-*(ADD: or in text example/walkthrough)*
- 
+
+ # Touch 
+ Touch sensing includes both proprioceptive force and tact, with the latter involving direct physical contact with an external object.
+ ## Proprioceptive Force Sensing
+ Proprioceptive force sensing is analogous to the sense of muscle force []. These forces can be measured using the position error (elastic systems) or torque sensors embeded in the robot joints. These forces can be used to etimate and infer human intenstions, and performin force control. 
+ ## Tactile Sensors
 ### Additional Reading
 + *(ADD: Article)*
 + *(ADD: Article)*
 + *(ADD: Article)*
 
+# Auditory 
 
 ## Concept or Subtopic 2
 *(EXAMPLE: Pareto optimality)*\
@@ -34,4 +37,5 @@ title: Sensors
 + *(ADD: Article or resource)*
 + *(ADD: Article or resource)*
 
+# Distance 
 [Return Home Page](../index.md)
