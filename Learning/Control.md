@@ -4,9 +4,9 @@ Control engineering is an inevitable part of every field in robotics and human-r
 Control itself is a really broad field of engineering with different applications and it has so many different branches such as optimal control, robust control, adaptive control, nonlinear control and etc. Also, modern control sometimes it has a really powerful connection with reinforcement learning, deep learning and game theory.
 Here, we are going to introduce some of these subcategories with so many applications in HRI.
 [Return Home Page](../index.md)
-# Main Topic 1 
-*(EXAMPLE: Game Theory)* \
-*(Insert short introduction for main topic)*
+# Impedance Control 
+Impedance Control was first introduced by MIT professor, Nevill Hogan, in 1985 and it is still a useful high level control method in physical human robot interactions.
+
 
 ## Concept or Subtopic 1
 *(EXAMPLE: Nash equilibrium solutions)*\
