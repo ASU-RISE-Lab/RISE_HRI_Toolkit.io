@@ -22,7 +22,7 @@ in Impedance Control we often consider a desired trajectory for our state variab
 |:--:|
 | *Fig2: a complete control loop for impedance control  |
 
-![image](https://user-images.githubusercontent.com/76622843/178602962-ff58e289-ad57-44d9-827b-c191d3ec8ae2.png)
+![image](https://user-images.githubusercontent.com/76622843/178603185-531f7ab6-9882-4644-9e9b-dac9d7d658bd.png)
 
 
  ### General Resources For Impedance Control
