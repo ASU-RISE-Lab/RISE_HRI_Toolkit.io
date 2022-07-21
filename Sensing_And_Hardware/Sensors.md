@@ -17,6 +17,17 @@ Visual servoing refers to the use of vision to control the robot motion []. The 
  ## Proprioceptive Force Sensing
  Proprioceptive force sensing is analogous to the sense of muscle force []. These forces can be measured using the position error (elastic systems) or torque sensors embeded in the robot joints. These forces can be used to etimate and infer human intenstions, and performin force control. 
  ## Tactile Sensors
+ Tactile sensors are useful for detecting the geometry, texture, presence, and position of touched objects. They can also collect additional information, including force strain, shear, flexion, torsion, and vibration. Using tactile sensors can enable more precise and safe human-machine interaction.
+
+### Types of Tactile Sensors
+ - Electrical
+    - Piezoresistive: Mechanical stimuli change the shape of a crystal, resulting in a change in resistance.
+    - Resistive: Applied pressure results in a change in contact resistance between two textile elements. This approach suffers from high drift and hysteresis, but may be useful for flexible tactile sensing.
+    - Capacitive: Mechanical stimuli changes capacitance by compressing the dielectric material.
+    - Triboelectric: Relies on the conversion of mechanical energy to  electrical energy by electrostatic induction between two different materiols. Triboelectric sensors are particularly useful for self-powered applications.
+ - Optical
+   - Index-based: Uses properties of light to detect changes due to tactile interaction
+   - Camera-based: Uses a CCD sensor to monitor changes in light intensity
 ### Additional Reading
 + *(ADD: Article)*
 + *(ADD: Article)*
