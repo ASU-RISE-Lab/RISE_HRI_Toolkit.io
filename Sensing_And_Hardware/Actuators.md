@@ -26,9 +26,13 @@ A safety-monitored stop is the most basic safety measure, automatically stopping
 
 Flexible and lightweight robots improve HRI safety by reducing the energy of robot motions by decreasing weight and reducing collision force through added joint flexibility. If the impulse of a collision is constant, the maximum force applied will be lower for a longer collision than for a shorter one. Causes of contact-based injuries can be grouped into two genral categories: quasistatic clamping and dymanic loading. Quasistatic clamping includes actions such as grasping and pinning, where the applied force is typically used as a measure of injury potential. Dynamic loading includes collisions and impacts, where acceleration and energy are measures of injury potential.
 
-### Torque Control
+### Backdrivable Electric Motors
 
 Controlling actuator torque can reduce the risk of quasistatic clamping injuries by limiting the amount of force applied to within safe levels.
+
+### Pneumatic Actuators
+
+These include conventional rotary and linear actuators, along with soft robotic actuators. When operating at low pressures, the compressibility of air provides additional flexibility in the joint. This flexibility may make open-loop control infeasible, requiring additional sensors to determine the robot state.
 
 ## Soft Robotics
 
